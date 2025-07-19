@@ -1,5 +1,3 @@
-Sure! Here's a professional and clean `README.md` file you can include in your GitHub repo for your **Frontend Challenge: Office Edition – Holistic Webdev: Office Space** submission.
-
 ## 📘 Acme Corp Intranet – Office Edition Frontend Challenge
 
 > **A submission for [Frontend Challenge: Office Edition sponsored by Axero](https://dev.to/challenges/frontend/axero)**
@@ -24,7 +22,7 @@ The UI is built with accessibility, clarity, and reusability in mind—focusing 
 
 Check it out on **CodePen** or deploy locally to preview:
 
-- 🔗 [Live Preview (CodePen)](https://codepen.io/YOUR_USERNAME/pen/YOUR_PEN_ID) *(Replace with your link)*
+- 🔗 [Live Preview (CodePen)](https://codepen.io/pen?template=JoYGWNN)
 
 ### 📂 Project Structure
 
@@ -47,7 +45,7 @@ Copy/paste the code into [CodePen](https://codepen.io), [JSFiddle](https://jsfid
 1. Download or clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/intranet-challenge.git
+git clone https://github.com/MakendranG/intranet-challenge
 cd intranet-challenge
 ```
 
@@ -79,6 +77,4 @@ This project is licensed under the [MIT License](LICENSE) – feel free to use a
 
 ### 👋 Connect
 
-Got feedback or ideas for improvements? Feel free to [open an issue](https://github.com/YOUR_USERNAME/intranet-challenge/issues) or drop a comment on my [DEV post](https://dev.to/YOUR_USERNAME).
-
-Let me know if you’d like a README that includes images, badges, or GitHub Pages deployment instructions!
+Got feedback or ideas for improvements? Feel free to [open an issue](https://github.com/MakendranG/intranet-challenge/issues) or drop a comment on my [DEV post](https://dev.to/makendrang).
