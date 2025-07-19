@@ -45,7 +45,7 @@ Copy/paste the code into [CodePen](https://codepen.io), [JSFiddle](https://jsfid
 1. Download or clone the repository:
 
 ```bash
-git clone https://github.com/MakendranG/intranet-challenge
+git clone https://github.com/MakendranG/intranet-challenge.git
 cd intranet-challenge
 ```
 
