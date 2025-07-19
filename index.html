@@ -1,0 +1,53 @@
+<body>
+  <header class="header">
+    <div class="logo">Acme Corp</div>
+    <input type="search" placeholder="Search..." class="search-input" aria-label="Search this intranet" />
+    <div class="profile-dropdown" tabindex="0" aria-haspopup="true" aria-expanded="false">Hi, Alex ▼</div>
+  </header>
+  <div class="container">
+    <nav class="sidebar" aria-label="Main navigation">
+      <ul class="nav-list">
+        <li><a href="#" class="nav-link active">Home</a></li>
+        <li><a href="#" class="nav-link">Teams</a></li>
+        <li><a href="#" class="nav-link">Events</a></li>
+        <li><a href="#" class="nav-link">Resources</a></li>
+        <li><a href="#" class="nav-link">Help Desk</a></li>
+      </ul>
+    </nav>
+    <main class="main-content">
+      <section class="widget events">
+        <h2>Upcoming Events</h2>
+        <ul id="event-list"></ul>
+      </section>
+      <section class="widget announcements">
+        <h2>Announcements</h2>
+        <div id="announcements"></div>
+      </section>
+      <section class="widget team-spotlight">
+        <h2>Team Spotlight</h2>
+        <div id="spotlight"></div>
+      </section>
+      <section class="widget quick-links">
+        <h2>Quick Links</h2>
+        <ul>
+          <li><a href="#">HR Portal</a></li>
+          <li><a href="#">Payroll</a></li>
+          <li><a href="#">Training</a></li>
+        </ul>
+      </section>
+      <section class="widget office-status">
+        <h2>Office Status</h2>
+        <div id="weather"></div>
+      </section>
+    </main>
+  </div>
+  <footer class="footer">
+    <span>© 2025 Acme Corp</span>
+    <nav class="social" aria-label="Social links">
+      <a href="#" class="social-link">LinkedIn</a>
+      <a href="#" class="social-link">Twitter</a>
+    </nav>
+    <span>Chennai Office</span>
+  </footer>
+  <script src="app.js"></script>
+</body>
